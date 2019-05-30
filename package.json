@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-intro",
+  "version": "1.0.0",
+  "description": "Introduction to NodeJS and ExpressJS based on https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+  "main": "hello-world/app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.2.6",
+    "mongoose": "^5.5.11",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@git.ita.chalmers.se:courses/dit341/nodejs-intro.git"
+  }
+}
